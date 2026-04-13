@@ -1,7 +1,7 @@
 # lucidblocks-mods
 
-packaged lucid blocks mods live here.
+repo for my lucid blocks mods.
 
-each mod stays in its own folder and only ships compiled `.pck` files plus a tiny readme.
+if your game directory does not already have a `mods` folder, make one.
 
-raw mod source and local build tooling live in the ignored `local/` folder so they never get committed.
+download the [qualia mods framework](https://github.com/MarcyMarbles/Qualia-Mods/releases) and install it in the `mods` folder.
