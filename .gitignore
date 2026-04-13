@@ -1,0 +1,10 @@
+*
+!*/
+!.gitignore
+!README.md
+!**/README.md
+!**/readme.md
+!**/*.pck
+
+/local/
+/local/**
